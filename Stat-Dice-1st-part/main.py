@@ -1,15 +1,15 @@
 # dice 1st part
 def count_combinations(n_dice, target_sum):
+      """
+    Counts the number of ways to roll 10 six-sided dice to achieve a sum of 30`.
+
+    Args:
+        n_dice (int): The number of dice to roll.
+        target_sum (int): The desired sum of the dice rolls.
+
+    Returns:
+        int: The number of possible combinations that yield the target sum.
     """
-       This function does something.
-
-       Args:
-           n_dice: The number of dice using.
-           target_sum: The target value of sum.
-
-       Returns:
-           The count of the all favourable outcomes
-       """
     if n_dice == 0:
         return 1 if target_sum == 0 else 0
     count = 0
