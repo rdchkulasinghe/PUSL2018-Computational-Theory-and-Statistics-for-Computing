@@ -6,7 +6,7 @@
 - Simulating marble drops into circular and rectangular trays.
 - Estimating the value of pi.
 - Analyzing the convergence of pi estimates with increasing simulation iterations.
-- Statistical Probability:
-
-### Calculating the probability of specific outcomes in a three-child family.
-### Simulating dice rolls to determine the probability of a specific sum.
+  
+### Statistical Probability
+- Calculating the probability of specific outcomes in a three-child family.
+- Simulating dice rolls to determine the probability of a specific sum.
