@@ -1,6 +1,6 @@
 # PUSL2018 Coursework
 ## Overview
-<p>This repository contains the code and report for the PUSL2018 coursework, which focuses on Monte Carlo simulation and statistical probability. The project is divided into two main tasks</p>
+<p>This contains the code and report for the PUSL2018 coursework, which focuses on Monte Carlo simulation and statistical probability. The project is divided into two main tasks</p>
 
 ### Monte Carlo Simulation:
 - Simulating marble drops into circular and rectangular trays.
